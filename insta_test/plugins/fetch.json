@@ -1,0 +1,37 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-crosswalk-webview": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-crosswalk-webview@2.3.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.instabug.cordova.plugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Instabug/instabug-cordova",
+            "subdir": ".",
+            "ref": "v1.1.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "me.tonny.cordova.plugins.multidex": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/jwall149/cordova-multidex",
+            "subdir": "."
+        },
+        "is_top_level": false,
+        "variables": {}
+    }
+}
