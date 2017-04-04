@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a2cb6e4-0e48-4acf-89f6-426972837d3e" name="Default" comment="" />
+    <list default="true" id="f3b0f9d3-f076-4d0b-b791-09ebce70c213" name="Default" comment="" />
     <ignored path="android.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,105 +25,17 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view />
-      </state>
-    </system>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="android" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="34" column="67" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CordovaBuildSupport.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaBuildSupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CordovaWebViewFragment.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaWebViewFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CordovaWebView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaWebView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="103" column="20" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CordovaActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="221" column="16" selection-start-line="221" selection-start-column="16" selection-end-line="221" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2910">
-              <caret line="194" column="23" selection-start-line="194" selection-start-column="23" selection-end-line="194" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#858#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CordovaContext.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -133,20 +45,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="layoutResourceFile_vertical" />
         <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
       </list>
     </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3" />
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="3.3" />
+        <entry key="$PROJECT_DIR$" value="2.14.1" />
       </map>
     </option>
     <option name="availableProjects">
@@ -161,12 +73,12 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="android" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
                 <option name="name" value=":CordovaLib" />
                 <option name="path" value="$PROJECT_DIR$/CordovaLib" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="android" />
+                <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -183,13 +95,17 @@
                 <option name="name" value="mergeArmv7ReleaseShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="validateSigningX86Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the sub-projects of root project 'android'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="packageReleaseResources" />
+                <option name="name" value="processX86ReleaseJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the DebugArmv7 build." />
@@ -198,11 +114,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="validateSigningDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareDebugDependencies" />
+                <option name="name" value="processX86DebugManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -210,7 +122,814 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86DebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeX86ReleaseShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateX86ReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalX86DebugJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareX86DebugAndroidTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForArmv7Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeX86DebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare android:CordovaLib:unspecified:release" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareAndroidCordovaLibUnspecifiedReleaseLibrary" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processArmv7DebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleX86DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processX86ReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleX86Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateArmv7DebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageX86DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForArmv7Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithDexForArmv7DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processX86ReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preX86DebugAndroidTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithJarMergingForX86Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the android (on device) tests for the Armv7Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installArmv7DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileArmv7DebugJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="createXwalkCommandLineFileArmv7Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all variants of all applications and secondary packages." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForX86DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateX86ReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks on currently connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="connectedCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.instabug.library:instabug:4.0.6" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComInstabugLibraryInstabug406Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithDexForX86DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all the Test applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processArmv7ReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithJarMergingForX86Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the X86Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lintX86Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareArmv7DebugAndroidTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-compat:26.0.0-alpha1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCompat2600Alpha1Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preDebugUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeArmv7DebugAndroidTestJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithDexForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeX86DebugAndroidTestJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Armv7Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lintArmv7Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageReleaseJarArtifact" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateArmv7ReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the armv7Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testArmv7DebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateX86ReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileArmv7DebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preX86ReleaseUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeArmv7DebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:multidex:1.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportMultidex101Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithMultidexlistForX86DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86DebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithMultidexlistForArmv7DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareArmv7ReleaseUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processX86DebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lintRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithJarMergingForArmv7DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the android (on device) tests for the Armv7Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uninstallArmv7DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'android'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileArmv7DebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeX86DebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileArmv7DebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-ui:26.0.0-alpha1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUi2600Alpha1Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateX86DebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateX86DebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on just the fatal issues in the armv7Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lintVitalArmv7Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preArmv7DebugAndroidTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preArmv7ReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileArmv7ReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithSyncJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cdvBuildRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86DebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateArmv7DebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:multidex-instrumentation:1.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportMultidexInstrumentation101Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageX86Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processArmv7ReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeX86DebugShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForX86Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the DebugArmv7 build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installArmv7Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForArmv7DebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in debug." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bundleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalArmv7DebugJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lintDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'android'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'android' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForX86DebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageDebugJarArtifact" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeArmv7DebugJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processDebugUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the DebugX86 build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installX86Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageArmv7Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithMultidexlistForX86Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateX86ReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processX86DebugUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleX86Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForArmv7Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithSyncJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Debug builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareArmv7ReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalX86ReleaseJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalDebugAndroidTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for x86Debug on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="connectedX86DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cdvPrintProps" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateX86DebugAndroidTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="createXwalkCommandLineFileX86Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86DebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'android'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preArmv7ReleaseUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalReleaseJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86ReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForX86Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-utils:26.0.0-alpha1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2600Alpha1Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="createXwalkCommandLineFileArmv7Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleArmv7Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstall all applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uninstallAll" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalArmv7ReleaseJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86DebugAndroidTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processX86DebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeX86ReleaseJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalX86DebugAndroidTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateArmv7DebugAndroidTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleArmv7DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="preArmv7DebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateArmv7ReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the ReleaseArmv7 build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uninstallArmv7Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="incrementalX86DebugUnitTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs instrumentation tests for all flavors on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="connectedAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForX86Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the android (on device) tests for the X86Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uninstallX86DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForArmv7Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86ReleaseNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeArmv7DebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare io.reactivex:rxandroid:1.2.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareIoReactivexRxandroid120Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForArmv7DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86DebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the armv7Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testArmv7ReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86ReleaseUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateArmv7DebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Armv7 builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleArmv7" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileDebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleX86ReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithJarMergingForArmv7Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateArmv7DebugResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeArmv7DebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeX86DebugAndroidTestShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Armv7Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lintArmv7Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processArmv7DebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'android'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateArmv7DebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateX86DebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="validateSigningDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareDebugDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
@@ -232,10 +951,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForArmv7Debug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="cdvBuildDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -244,26 +959,12 @@
                 <option name="name" value="deviceCheck" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare android:CordovaLib:unspecified:release" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareAndroidCordovaLibUnspecifiedReleaseLibrary" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on all variants." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="lint" />
+                <option name="name" value="transformClassesWithDexForX86Debug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileReleaseNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processArmv7DebugAndroidTestJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -290,13 +991,13 @@
                 <option name="name" value="generateArmv7DebugSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays the components produced by root project 'android'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformResourcesWithMergeJavaResForX86DebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -308,23 +1009,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateArmv7DebugAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileDebugUnitTestJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformResourcesWithMergeJavaResForReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="checkArmv7ReleaseManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformResourcesWithMergeJavaResForArmv7Debug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -332,7 +1017,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processDebugAndroidTestJavaRes" />
+                <option name="name" value="prepareX86ReleaseUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -341,10 +1026,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmv7DebugShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformClassesWithDexForArmv7DebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -379,15 +1060,6 @@
                 <option name="name" value="packageDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the android (on device) tests for the Armv7Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="installArmv7DebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileArmv7DebugJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeReleaseJniLibFolders" />
               </ExternalTaskPojo>
@@ -400,10 +1072,6 @@
                 <option name="name" value="processReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="createXwalkCommandLineFileArmv7Debug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Installs and runs instrumentation tests using all Device Providers." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="deviceAndroidTest" />
@@ -411,10 +1079,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeDebugAndroidTestAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processReleaseManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
@@ -426,23 +1090,20 @@
                 <option name="name" value="incrementalReleaseUnitTestJavaCompilationSafeguard" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles all variants of all applications and secondary packages." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assemble" />
+                <option name="name" value="generateX86DebugBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileReleaseUnitTestSources" />
+                <option name="name" value="compileX86DebugJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the android (on device) tests for the Debug build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="installDebugAndroidTest" />
+                <option name="name" value="preX86DebugUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs all device checks on currently connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="connectedCheck" />
+                <option name="name" value="generateX86DebugAndroidTestResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Installs and runs the tests for debug on connected devices." />
@@ -450,14 +1111,8 @@
                 <option name="name" value="connectedDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.instabug.library:instabug:4.0.6" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComInstabugLibraryInstabug406Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles all the Test applications." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assembleAndroidTest" />
+                <option name="name" value="jarX86DebugClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -469,36 +1124,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processArmv7ReleaseManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="checkArmv7DebugManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmv7DebugAndroidTestNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareArmv7DebugAndroidTestDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-compat:26.0.0-alpha1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportCompat2600Alpha1Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preDebugUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileLint" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -518,24 +1148,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mergeArmv7DebugAndroidTestJniLibFolders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformClassesWithDexForDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assembleDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="copyReleaseLint" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the Armv7Release build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="lintArmv7Release" />
+                <option name="name" value="compileX86DebugNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -543,33 +1160,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="packageReleaseJarArtifact" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateArmv7ReleaseAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for the armv7Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="testArmv7DebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformResourcesWithMergeJavaResForDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for all variants." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareReleaseUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileArmv7DebugSources" />
+                <option name="name" value="transformResourcesWithMergeJavaResForX86Debug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -580,40 +1175,21 @@
                 <option name="name" value="preReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateDebugResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:support-v4:26.0.0-alpha1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareComAndroidSupportSupportV42600Alpha1Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mergeArmv7DebugAndroidTestAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for the debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="testDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:multidex:1.0.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportMultidex101Library" />
+                <option name="name" value="compileX86DebugAndroidTestNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preBuild" />
+                <option name="name" value="compileX86ReleaseSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformClassesWithMultidexlistForArmv7DebugAndroidTest" />
+                <option name="name" value="preX86ReleaseBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -621,16 +1197,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareArmv7ReleaseUnitTestDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="transformClassesWithJarMergingForArmv7Debug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the Release build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="lintRelease" />
+                <option name="name" value="compileX86DebugAndroidTestShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -638,38 +1209,28 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformClassesWithJarMergingForArmv7DebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the android (on device) tests for the Armv7Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="uninstallArmv7DebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'android'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processArmv7DebugJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'android'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildEnvironment" />
+                <option name="name" value="generateX86DebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithJarMergingForX86DebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the ReleaseX86 build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uninstallX86Release" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="checkDebugManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileArmv7DebugUnitTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prints out all the source sets defined in this project." />
@@ -681,18 +1242,18 @@
                 <option name="name" value="transformResourcesWithMergeJavaResForDebugUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Runs lint on just the fatal issues in the x86Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="lintVitalX86Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:support-media-compat:26.0.0-alpha1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareComAndroidSupportSupportMediaCompat2600Alpha1Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileArmv7DebugAndroidTestAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-core-ui:26.0.0-alpha1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportCoreUi2600Alpha1Library" />
+                <option name="name" value="jarX86ReleaseClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -701,6 +1262,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="packageDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86ReleaseJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -713,6 +1278,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmv7DebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86DebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -731,25 +1300,8 @@
                 <option name="name" value="generateReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the armv7Release build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="lintVitalArmv7Release" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preArmv7DebugAndroidTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preArmv7DebugUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preArmv7ReleaseBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileArmv7ReleaseAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare org.xwalk:xwalk_core_library:23.53.589.4" />
@@ -766,15 +1318,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformNative_libsWithSyncJniLibsForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cdvBuildRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateDebugBuildConfig" />
+                <option name="name" value="mergeX86DebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles all Release builds." />
@@ -783,20 +1327,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateArmv7DebugBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeArmv7DebugAndroidTestShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:multidex-instrumentation:1.0.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportMultidexInstrumentation101Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmv7DebugAndroidTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithDexForX86Release" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateX86DebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -808,15 +1351,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processArmv7ReleaseJavaRes" />
+                <option name="name" value="generateX86DebugResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mergeDebugProguardFiles" />
+                <option name="name" value="checkX86ReleaseManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateArmv7DebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareX86DebugDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -828,42 +1375,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assembleReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleArmv7ReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the DebugArmv7 build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="installArmv7Debug" />
+                <option name="name" value="processX86DebugAndroidTestManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformResourcesWithMergeJavaResForArmv7DebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a bundle containing the library in debug." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="bundleDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processReleaseJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="incrementalArmv7DebugJavaCompilationSafeguard" />
+                <option name="name" value="prepareX86DebugUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateReleaseAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="lintDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -879,23 +1403,29 @@
                 <option name="name" value="bundleRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'android'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="model" />
+                <option name="name" value="compileX86DebugShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'android' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="tasks" />
+                <option name="name" value="compileX86ReleaseShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageX86Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleX86DebugUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="incrementalArmv7DebugAndroidTestJavaCompilationSafeguard" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="description" value="Runs lint on the X86Release build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="init" />
+                <option name="name" value="lintX86Release" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -910,16 +1440,13 @@
                 <option name="name" value="mergeReleaseProguardFiles" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the x86Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testX86ReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="incrementalDebugJavaCompilationSafeguard" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="packageDebugJarArtifact" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mergeArmv7DebugJniLibFolders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -932,7 +1459,16 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateDebugResources" />
+                <option name="name" value="processX86DebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the DebugX86 build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uninstallX86Debug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="createXwalkCommandLineFileX86Release" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
@@ -945,28 +1481,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processDebugUnitTestJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for the release build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="testReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="packageArmv7Release" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmv7ReleaseRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmv7ReleaseSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mergeDebugShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -982,32 +1501,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformResourcesWithMergeJavaResForArmv7Release" />
+                <option name="name" value="mergeX86ReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileReleaseRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformNative_libsWithSyncJniLibsForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles all Debug builds." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assembleDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareArmv7ReleaseDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateDebugAndroidTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="incrementalDebugAndroidTestJavaCompilationSafeguard" />
+                <option name="name" value="checkX86DebugManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1015,44 +1513,24 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileDebugAndroidTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="incrementalArmv7ReleaseUnitTestJavaCompilationSafeguard" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareReleaseDependencies" />
+                <option name="name" value="generateX86DebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="cdvPrintProps" />
+                <option name="name" value="compileX86ReleaseUnitTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'android'." />
+                <option name="description" value="Run unit tests for the x86Debug build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preArmv7ReleaseUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateReleaseSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preReleaseBuild" />
+                <option name="name" value="testX86DebugUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="incrementalDebugUnitTestJavaCompilationSafeguard" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="incrementalReleaseJavaCompilationSafeguard" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
@@ -1064,22 +1542,8 @@
                 <option name="name" value="mergeDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-core-utils:26.0.0-alpha1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2600Alpha1Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="createXwalkCommandLineFileArmv7Release" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assembleArmv7Release" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstall all applications." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="uninstallAll" />
+                <option name="name" value="generateX86ReleaseResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1094,17 +1558,13 @@
                 <option name="name" value="transformNative_libsWithMergeJniLibsForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86DebugAndroidTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Prepare android:CordovaLib:unspecified:debug" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareAndroidCordovaLibUnspecifiedDebugLibrary" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileDebugAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="incrementalArmv7ReleaseJavaCompilationSafeguard" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1112,11 +1572,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileX86DebugUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateDebugAndroidTestResValues" />
+                <option name="name" value="transformResourcesWithMergeJavaResForX86ReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the Android dependencies of the project." />
@@ -1145,23 +1609,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileReleaseJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateArmv7DebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateArmv7DebugAndroidTestBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assembleArmv7DebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preArmv7DebugBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1177,21 +1625,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateArmv7ReleaseSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeArmv7DebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the ReleaseArmv7 build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="uninstallArmv7Release" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs and runs instrumentation tests for all flavors on connected devices." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="connectedAndroidTest" />
+                <option name="name" value="mergeX86DebugJniLibFolders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1199,7 +1637,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeX86ReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareArmv7DebugDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeX86DebugAndroidTestAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1207,27 +1653,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileReleaseSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileReleaseUnitTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileDebugShaders" />
+                <option name="name" value="preX86DebugBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformResourcesWithMergeJavaResForDebug" />
+                <option name="name" value="prepareX86ReleaseDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleArmv7Debug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForArmv7Release" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1237,10 +1675,6 @@
                 <option name="description" value="Assembles and tests this project and all projects that depend on it." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildDependents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mergeArmv7DebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1255,53 +1689,35 @@
                 <option name="name" value="mergeDebugJniLibFolders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare io.reactivex:rxandroid:1.2.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareIoReactivexRxandroid120Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Installs and runs the tests for armv7Debug on connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="connectedArmv7DebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Assembles all X86 builds." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForArmv7DebugAndroidTest" />
+                <option name="name" value="assembleX86" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mergeReleaseAssets" />
+                <option name="name" value="transformClassesWithMultidexlistForX86Release" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateReleaseBuildConfig" />
+                <option name="name" value="validateSigningX86DebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for the armv7Release build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="testArmv7ReleaseUnitTest" />
+                <option name="name" value="compileX86ReleaseAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeArmv7DebugShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateArmv7DebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles all Armv7 builds." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assembleArmv7" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays the signing info for each variant." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="signingReport" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileDebugAndroidTestAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1314,24 +1730,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformClassesWithJarMergingForArmv7Release" />
+                <option name="name" value="incrementalX86ReleaseUnitTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processX86ReleaseManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleArmv7DebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateArmv7DebugResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mergeArmv7DebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the Armv7Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="lintArmv7Debug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
@@ -1340,15 +1747,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processArmv7DebugManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugAndroidTestRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1364,6 +1763,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processX86DebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeArmv7ReleaseJniLibFolders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -1371,13 +1774,9 @@
                 <option name="name" value="jarArmv7ReleaseClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'android'." />
+                <option name="description" value="Installs the android (on device) tests for the X86Debug build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="generateArmv7DebugAndroidTestSources" />
+                <option name="name" value="installX86DebugAndroidTest" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -1893,11 +2292,6 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':CordovaLib'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CordovaLib" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':CordovaLib'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/CordovaLib" />
                 <option name="name" value="buildEnvironment" />
@@ -2015,7 +2409,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="5964341536000" />
+        <entry key="$PROJECT_DIR$" value="5965335246000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2217,144 +2611,136 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="android" />
+              <option name="name" value="CordovaLib" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/announce" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/antlr" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/base-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/base-services-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/build-cache-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/build-comparison" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/build-init" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/cli" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/code-quality" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/composite-builds" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/dependency-management" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/diagnostics" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ear" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ide" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ide-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ide-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/installation-beacon" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/internal-android-performance-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/internal-integ-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/internal-performance-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/internal-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ivy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/jacoco" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/javascript" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/jetty" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/jvm-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/language-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/language-java" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/language-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/language-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/language-scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/launcher" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/logging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/maven" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/messaging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/model-core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/model-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/open-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/osgi" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/platform-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/platform-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/platform-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/platform-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/plugin-development" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/plugin-use" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/plugins" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/process-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/publish" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/reporting" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/resources" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/resources-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/resources-s3" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/resources-sftp" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/signing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/test-kit" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/testing-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/testing-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/testing-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/tooling-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/tooling-api-builders" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ui" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/workers" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/wrapper" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/ant-1.9.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/ant-launcher-1.9.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-base-services-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-base-services-groovy-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-cli-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-core-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-docs-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-installation-beacon-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-jvm-services-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-launcher-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-logging-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-messaging-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-model-core-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-model-groovy-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-native-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-open-api-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-process-services-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-resources-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-script-kotlin-0.5.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-tooling-api-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-ui-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-version-info-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-wrapper-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/groovy-all-2.4.7.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-announce-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-antlr-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-build-cache-http-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-build-comparison-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-build-init-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-code-quality-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-composite-builds-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-dependency-management-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-diagnostics-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-ear-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-ide-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-ide-native-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-ide-play-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-ivy-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-jacoco-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-javascript-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-jetty-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-language-groovy-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-language-java-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-language-jvm-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-language-native-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-language-scala-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-maven-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-osgi-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-platform-base-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-platform-jvm-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-platform-native-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-platform-play-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-plugin-development-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-plugin-use-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-plugins-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-publish-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-reporting-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-resources-http-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-resources-s3-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-resources-sftp-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-scala-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-signing-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-test-kit-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-testing-base-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-testing-jvm-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-testing-native-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-tooling-api-builders-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-workers-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-base-services-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-base-services-groovy-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-cli-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-core-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-docs-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-installation-beacon-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-jvm-services-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-launcher-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-logging-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-messaging-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-model-core-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-model-groovy-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-native-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-open-api-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-process-services-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-resources-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-tooling-api-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-ui-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/gradle-wrapper-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/groovy-all-2.4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-announce-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-antlr-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-build-comparison-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-build-init-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-code-quality-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-dependency-management-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-diagnostics-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-ear-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-ide-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-ide-native-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-ide-play-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-ivy-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-jacoco-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-javascript-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-jetty-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-language-groovy-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-language-java-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-language-jvm-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-language-native-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-language-scala-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-maven-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-osgi-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-platform-base-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-platform-jvm-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-platform-native-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-platform-play-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-plugin-development-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-plugin-use-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-plugins-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-publish-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-reporting-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-resources-http-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-resources-s3-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-resources-sftp-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-scala-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-signing-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-sonar-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-test-kit-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-testing-base-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-testing-jvm-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-testing-native-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/gradle-tooling-api-builders-2.14.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.14.1-all/8bnwg5hd3w55iofp58khbp6yv/gradle-2.14.1/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -2371,19 +2757,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaContext.java" />
-        <option value="$PROJECT_DIR$/res/layout/fragment_cordova_webview.xml" />
-        <option value="$PROJECT_DIR$/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaBuildSupport.java" />
         <option value="$PROJECT_DIR$/src/io/cordova/hellocordova/MainActivity.java" />
         <option value="$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaWebViewFragment.java" />
+        <option value="$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaContext.java" />
+        <option value="$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaBuildSupport.java" />
+        <option value="$PROJECT_DIR$/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/res/layout/fragment_cordova_webview.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="18" />
     <option name="width" value="1920" />
-    <option name="height" value="1076" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -2410,9 +2796,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2420,10 +2803,6 @@
               <option name="myItemId" value="android" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2447,36 +2826,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="whitelist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2497,32 +2846,11 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cordova-plugin" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -2845,46 +3173,46 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a2cb6e4-0e48-4acf-89f6-426972837d3e" name="Default" comment="" />
-      <created>1491004293346</created>
+      <changelist id="f3b0f9d3-f076-4d0b-b791-09ebce70c213" name="Default" comment="" />
+      <created>1491334897410</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1491004293346</updated>
+      <updated>1491334897410</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1076" extended-state="6" />
+    <frame x="0" y="18" width="1920" height="1058" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2903,11 +3231,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="221" column="16" selection-start-line="221" selection-start-column="16" selection-end-line="221" selection-end-column="16" />
+        <state relative-caret-position="960">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1146#1147#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1320#1321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaBuildSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaWebViewFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="58" column="70" selection-start-line="58" selection-start-column="70" selection-end-line="58" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5225#5226#0" expanded="true" />
+            <element signature="e#5252#5253#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2922,113 +3289,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/ConfigXmlParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-          <folding>
-            <element signature="e#1658#1659#0" expanded="true" />
-            <element signature="e#1690#1691#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2910">
-          <caret line="194" column="23" selection-start-line="194" selection-start-column="23" selection-end-line="194" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#858#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaBuildSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/crosswalk/engine/XWalkCordovaUiClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/crosswalk/engine/XWalkCordovaCookieManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/crosswalk/engine/XWalkCordovaClientCertRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="34" column="67" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaWebView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="103" column="20" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="20" />
+        <state relative-caret-position="435">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/AndroidSDK/sources/android-25/android/content/ContextWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="688" column="15" selection-start-line="688" selection-start-column="15" selection-end-line="688" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/cordova/hellocordova/CordovaWebViewFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

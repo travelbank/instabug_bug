@@ -190,17 +190,17 @@ android {
                     abiFilters "armeabi-v7a", ""
                 }
             }
-//            x86 {
-//                versionCode defaultConfig.versionCode*10 + 4
-//                ndk {
-//                    abiFilters "x86", ""
-//                }
-//            }
-//            all {
-//                ndk {
-//                    abiFilters "all", ""
-//                }
-//            }
+            x86 {
+                versionCode defaultConfig.versionCode*10 + 4
+                ndk {
+                    abiFilters "x86", ""
+                }
+            }
+            all {
+                ndk {
+                    abiFilters "all", ""
+                }
+            }
         }
     }
     /*
