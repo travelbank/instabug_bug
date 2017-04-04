@@ -4,10 +4,10 @@ package io.cordova.hellocordova;
  * Created by seljabali on 4/4/17.
  */
 
+import android.app.Activity;
 import android.app.Fragment;
 import android.content.Intent;
 import android.content.pm.PackageManager;
-import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -93,8 +93,10 @@ public class CordovaWebViewFragment extends Fragment implements CordovaInterface
 
         // Loading the launch url, this takes care of initializing all the javascript for the web
         // app
-        cordovaWebView.showWebPage(launchUrl, false, true, null);
+//        cordovaWebView.showWebPage(launchUrl, true, true, null);
+        cordovaWebView.loadUrl("file:///android_asset/www/baba.html");
 //        cordovaWebView.loadUrl(launchUrl);
+
 
         return view;
     }
