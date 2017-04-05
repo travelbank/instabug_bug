@@ -6,5 +6,27 @@
 </head>
 <body>
   The name is Kerpal. James, Kerpal.
+  <br />
+  <img src="http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg" />
+
+  <script type="text/javascript" src="cordova.js"></script>
+  <script type="text/javascript">
+    document.addEventListener('deviceready', function(){
+      console.log('device is ready');
+      // Instabug init code
+      cordova.plugins.instabug.activate({
+         android: '<redacted>'
+       },
+         'button',
+       {
+       },
+       function () {
+         console.log('initializer:cordova:instabug::Instabug initialized.');
+       },
+       function (error) {
+         console.log('initializer:cordova:instabug::' + error);
+       });
+    }, false);
+  </script>
 </body>
 </html>
